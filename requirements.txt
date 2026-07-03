@@ -1,0 +1,6 @@
+streamlit
+google-genai
+google-cloud-vision
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-documentai
